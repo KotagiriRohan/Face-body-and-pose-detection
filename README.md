@@ -1,5 +1,5 @@
 # Face-body-and-pose-detection
-A python program to detect the body posture and face movements.
+A python program to detect the body posture and face movements using OpenCV, MediaPipe, Numpy.
 
 ![image](https://user-images.githubusercontent.com/59657204/147460962-f8c63170-f260-45c2-ac91-259b20bbf023.png)
 
